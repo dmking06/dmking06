@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello. I'm new to GitHub and trying to familiarize myself with it.
 
 <!--
 **dmking06/dmking06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
