@@ -1,8 +1,8 @@
 ### Hello. I'm new to GitHub and trying to familiarize myself with it.
 
-![Django Assignment #1](./ReSkillAm/05%20Django/Django_assignment.png?raw=true "Django Assignment #1")
+![Django Assignment #1](../ReSkillAm/05%20Django/Django_assignment.png?raw=true "Django Assignment #1")
 
-![Test image](./ReSkillAm/test.png?raw=true "Test")
+![Test image](../ReSkillAm/test.png?raw=true "Test")
 
 ![Test #1](https://raw.githubusercontent.com/dmking06/ReskillAm/main/test.png "Test1")
 
